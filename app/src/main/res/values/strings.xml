@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dog Gallery</string>
+    <string name="breed_list_fragment_label">Dog Gallery</string>
+    <string name="next">Next</string>
+    <string name="no_connection">No internet connection</string>
+    <string name="no_data">No Dogs data</string>
+</resources>
